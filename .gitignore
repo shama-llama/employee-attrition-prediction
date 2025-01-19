@@ -1,1 +1,19 @@
+# Virtual environment
 .venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+profile_default/
+ipython_config.py
+
+# Python artifacts
+__pycache__/
+build/
+dist/
+*.egg-info/
+*.mypy_cache/
+*.pytest_cache/
