@@ -6,6 +6,8 @@
 
 This project uses a Decision Tree Classifier to predict employee attrition using scikit-learn. The notebook compares model performance before and after hyperparameter tuning and is adapted from [Decision Trees & Random Forest for Beginners](https://www.kaggle.com/code/faressayah/decision-trees-random-forest-for-beginners).
 
+![Decision Tree](/assets/tree.png)
+
 ## Topics
 
 - Preprocessing
